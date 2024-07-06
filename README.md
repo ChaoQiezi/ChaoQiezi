@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm ChaoQiezi</h1>
-<h3 align="center">A student specializing in RS</h3>
+<h1 align="center">Hi 👋, I'm ChaoQiezi, specializing in RS</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chaoqiezi" alt="chaoqiezi" /></a> </p>
 <!-- 左侧图标部分 -->
 <div style="float: left;">
   <p align="center">
