@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ChaoQiezi, specializing in RS</h1>
+<h1 align="center">Hi 👋, I'm ChaoQiezi, specializing in Remote sensing spatiotemporal big data and deep learning</h1>
 
 <!-- 左侧图标部分 -->
 <div style="float: left;">
